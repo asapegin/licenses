@@ -1,0 +1,71 @@
+Vizsage Public License Deed
+Vizsage Project Logo Vizsage BY-NC-SA License Logo
+Attribution-NonCommercial-ShareAlike
+Everything in the Vizsage project distribution is released under the following license (VPL-by-nc-sa) except the code under /demos, which is released under a less restrictive license (Attribution only instead of Attribution-NonCommercial-ShareAlike).
+
+You may of course purchase a commercial license -- which releases the NonCommercial and ShareAlike requirements. Contact the author for more information.
+
+You are free:
+to Share — to copy, distribute or transmit the work
+ 
+
+to Remix — to adapt the work. Among other things to try, you may compile it within another software project, modify the source code for your purposes, include it or a modified version in a webpage or published work, link to it as a library, and to adapt or modify any of the other assets distributed with this work.
+
+Under the following conditions:
+Attribution. You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+
+Noncommercial. You may not use this work for commercial purposes.
+
+Here are some clear examples of commercial purposes:
+
+You incorporate work covered by this license into software that you sell to others.
+You use this work in your website, which delivers more than 10,000 total pageviews that include this work. (The yearly licensing fee for this product is less than the expected ad revenue for one such month).
+You use this at work to further your or someone else's corporate mission.
+(This is not a comprehensive list: if you're in doubt, please contact the authors.) Basically, if the fruits of this project are helpign you or someone else generate a macroscopic amount of money or business, do the right thing and support the development of this useful product.
+Properly registered non-profit agencies, educational institutions, and suitably licensed open-source projects are excused from the non-commercial restriction, but must respect the rest of the license.
+
+Share Alike. If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+
+Some (but not all) examples of uses covered by this license include
+Distributing software that incorporates some or all of this work in its source code.
+Distributing software that links against libraries incorporating this work.
+Packaging assets from this project in a larger work you distribute,
+Including any of the above on webpages you serve to the outside world
+All of the above applies equally well to original and modified (derivative) works, whether used in whole or in part.
+For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page.
+Any of the above conditions can be waived if you get permission from the copyright holder.
+Nothing in this license impairs or restricts the author's moral rights.
+Your fair dealing and other rights are in no way affected by the above.
+
+This is a human-readable summary of the Legal Code (the full license).
+
+ 
+
+Disclaimer This Deed is not a license. It is simply a handy reference for understanding the Legal Code (the full license) — it is a human-readable expression of some of its key terms. Think of it as the user-friendly interface to the Legal Code beneath. This Deed itself has no legal value, and its contents do not appear in the actual license.
+
+ 
+
+Even Yet Still More Disclaimer This license is derived from the Creative Commons CC-BY-NC-SA-3.0 license and the Apache License 2.0, for both of which we're very thankful. (They're fine with derivative uses.) Where this document links to Creative Commons it's only because they have an excellent explanation of the terms used here, or to give them credit. This is, however, NOT A CREATIVE COMMONS LICENSE, and they shouldn't be blamed for any shortcomings or evisceration of their work.
+
+This License, like the original, is itself released under a Creative Commons Attribution 3.0 Unported license. Both Creative Commons and the Vizsage Project want you to know that each is not a law firm and do not provide legal services. Distributing of, displaying of, or linking to thie Vizsage Public License's Deed does not create an attorney-client relationship. You're a chump if you adapt this without proper legal advice.
+
+How to Apply this license To apply the Vizsage Public License to your work, attach the following boilerplate notice, with the fields enclosed by brackets "[]" replaced with your own identifying information. (Don't include the brackets!) The text should be enclosed in the appropriate comment syntax for the file format. We also recommend that a file or class name and description of purpose be included on the same "printed page" as the copyright notice for easier identification within third-party archives.
+
+	/*
+	 * Copyright [YEAR] [Your Name Here]
+	 * 
+	 * Licensed under the "Attribution-NonCommercial-ShareAlike" Vizsage
+	 * Public License (the "License"). You may not use this file except
+	 * in compliance with the License. Roughly speaking, non-commercial
+	 * users may share and modify this code, but must give credit and 
+	 * share improvements. However, for proper details please 
+	 * read the full License, available at
+	 *  	http://vizsage.com/license/Vizsage-License-BY-NC-SA.html 
+	 * and the handy reference for understanding the full license at 
+	 *  	http://vizsage.com/license/Vizsage-Deed-BY-NC-SA.html
+	 * 
+	 * Unless required by applicable law or agreed to in writing, any
+	 * software distributed under the License is distributed on an 
+	 * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, 
+	 * either express or implied. See the License for the specific 
+	 * language governing permissions and limitations under the License.
