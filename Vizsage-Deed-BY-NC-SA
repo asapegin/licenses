@@ -1,6 +1,9 @@
 Vizsage Public License Deed
 Vizsage Project Logo Vizsage BY-NC-SA License Logo
 Attribution-NonCommercial-ShareAlike
+
+-- the license was updated by Andrey Sapegin to fix broken links --
+
 Everything in the Vizsage project distribution is released under the following license (VPL-by-nc-sa) except the code under /demos, which is released under a less restrictive license (Attribution only instead of Attribution-NonCommercial-ShareAlike).
 
 You may of course purchase a commercial license -- which releases the NonCommercial and ShareAlike requirements. Contact the author for more information.
@@ -60,9 +63,9 @@ How to Apply this license To apply the Vizsage Public License to your work, atta
 	 * users may share and modify this code, but must give credit and 
 	 * share improvements. However, for proper details please 
 	 * read the full License, available at
-	 *  	http://vizsage.com/license/Vizsage-License-BY-NC-SA.html 
+	 *  	https://github.com/asapegin/licenses/blob/main/Vizsage-License-BY-NC-SA
 	 * and the handy reference for understanding the full license at 
-	 *  	http://vizsage.com/license/Vizsage-Deed-BY-NC-SA.html
+	 *  	https://github.com/asapegin/licenses/blob/main/Vizsage-Deed-BY-NC-SA
 	 * 
 	 * Unless required by applicable law or agreed to in writing, any
 	 * software distributed under the License is distributed on an 
